@@ -19,6 +19,7 @@
   <img align="left" alt="Tharun Kumar Reddy Karasani's Portfolio" width="30px" src="https://github.com/ChagamMahendra/Sources/blob/main/download.png" />
 </a>
 <br>
+
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 -   🖥 Data Scientist at McKinsey & Company, EX - Goldman Sachs
