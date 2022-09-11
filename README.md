@@ -6,9 +6,19 @@
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/tharun.kumar.reddy5213/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karasanitarunreddy.wixsite.com/my-site)
 
+<a href="https://www.linkedin.com/in/tharun-kumar-reddy-karasani-b94332114/">
+  <img align="left" alt="Tharun Kumar Reddy Karasani's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://public.tableau.com/app/profile/tharun.kumar.reddy5213">
+  <img align="left" alt="Tharun Kumar Reddy Karasani's Tableau" width="25px" src="https://github.com/ChagamMahendra/Sources/blob/main/tableau.png" />
+</a>
+</a>
+<a href="https://karasanitarunreddy.wixsite.com/my-site">
+  <img align="left" alt="Tharun Kumar Reddy Karasani's Portfolio" width="30px" src="https://github.com/ChagamMahendra/Sources/blob/main/download.png" />
+</a>
+<br>
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 -   🖥 Data Scientist at McKinsey & Company, EX - Goldman Sachs
@@ -29,19 +39,9 @@
 
 ### Projects
 
-Data Science and Machine Learning
-
-[Cardio Vascualr Diseases Root Cause Analysis](https://public.tableau.com/app/profile/tharun.kumar.reddy5213/viz/CVDDashboard/CardiovascularDiseases)
-
-[Cryptocurrency Return Analysis](https://public.tableau.com/app/profile/tharun.kumar.reddy5213/viz/CryptocurrencyAnalysis_16456088456770/CryptocurrencyDashboard)
-
-[SARS-COV2 Research](https://public.tableau.com/app/profile/tharun.kumar.reddy5213/viz/SARS-COV2Research/Summary)
-
-### Projects
 <ul>
   <li>Data Science and Machine Learning 
-    <ul>
-    <li> Mini
+
     <ul>
       <li>
         <a href="https://github.com/TharunKumarReddy5/ml-pipeline-analyzer">Machine Learning Pipeline Analyzer</a>
@@ -49,10 +49,7 @@ Data Science and Machine Learning
       <li>
       <a href="https://github.com/TharunKumarReddy5/Covid19-Research">COVID 19 Spread Forecast and Vaccination Prioritization</a>
       </li>
-    </ul> 
-      </li>
     </ul>
-  </li>
   <br>
   <li> Data Visualization 
     <ul>
