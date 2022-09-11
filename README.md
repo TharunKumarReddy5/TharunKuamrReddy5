@@ -6,7 +6,7 @@
 ## 🔗 Links
 
 <a href="https://www.linkedin.com/in/tharun-kumar-reddy-karasani-b94332114/">
-  <img align="left" alt="Tharun Kumar Reddy Karasani's LinkedIN" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/blob/main/linkedin.svg" />
+  Tharun Kumar Reddy Karasani's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://public.tableau.com/app/profile/tharun.kumar.reddy5213">
   <img align="left" alt="Tharun Kumar Reddy Karasani's Tableau" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/blob/main/tableau.png" />
