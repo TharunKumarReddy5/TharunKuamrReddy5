@@ -41,7 +41,6 @@
 
 <ul>
   <li>Data Science and Machine Learning 
-
     <ul>
       <li>
         <a href="https://github.com/TharunKumarReddy5/ml-pipeline-analyzer">Machine Learning Pipeline Analyzer</a>
