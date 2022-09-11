@@ -6,14 +6,14 @@
 ## 🔗 Links
 
 <a href="https://www.linkedin.com/in/tharun-kumar-reddy-karasani-b94332114/">
-  <img align="left" alt="Tharun Kumar Reddy Karasani's LinkedIN" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/linkedin.svg" />
+  <img align="left" alt="Tharun Kumar Reddy Karasani's LinkedIN" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/blob/main/linkedin.svg" />
 </a>
 <a href="https://public.tableau.com/app/profile/tharun.kumar.reddy5213">
-  <img align="left" alt="Tharun Kumar Reddy Karasani's Tableau" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/tableau.png" />
+  <img align="left" alt="Tharun Kumar Reddy Karasani's Tableau" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/blob/main/tableau.png" />
 </a>
 </a>
 <a href="https://karasanitarunreddy.wixsite.com/my-site">
-  <img align="left" alt="Tharun Kumar Reddy Karasani's Portfolio" width="30px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/portfolio.png" />
+  <img align="left" alt="Tharun Kumar Reddy Karasani's Portfolio" width="30px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/blob/main/portfolio.png" />
 </a>
 <br>
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
