@@ -29,7 +29,7 @@
 
 -   ❤️ Interested in solving business problems using Machines Learning and Analytics
 
--   💚 I love solving and explaining problems with Visualization
+-   💚 I love story telling with Visualization
 
 -   🥇 Deep Learning Specialization, Machine Learning Specialization, Alteryx Desginer Core and Advanced
 
