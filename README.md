@@ -4,22 +4,18 @@
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/tharun.kumar.reddy5213/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karasanitarunreddy.wixsite.com/my-site)
 
 <a href="https://www.linkedin.com/in/tharun-kumar-reddy-karasani-b94332114/">
-  <img align="left" alt="Tharun Kumar Reddy Karasani's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tharun Kumar Reddy Karasani's LinkedIN" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/linkedin.svg" />
 </a>
 <a href="https://public.tableau.com/app/profile/tharun.kumar.reddy5213">
-  <img align="left" alt="Tharun Kumar Reddy Karasani's Tableau" width="25px" src="https://github.com/ChagamMahendra/Sources/blob/main/tableau.png" />
+  <img align="left" alt="Tharun Kumar Reddy Karasani's Tableau" width="25px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/tableau.png" />
 </a>
 </a>
 <a href="https://karasanitarunreddy.wixsite.com/my-site">
-  <img align="left" alt="Tharun Kumar Reddy Karasani's Portfolio" width="30px" src="https://github.com/ChagamMahendra/Sources/blob/main/download.png" />
+  <img align="left" alt="Tharun Kumar Reddy Karasani's Portfolio" width="30px" src="https://github.com/TharunKumarReddy5/TharunKumarReddy5/portfolio.png" />
 </a>
 <br>
-
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 -   🖥 Data Scientist at McKinsey & Company, EX - Goldman Sachs
